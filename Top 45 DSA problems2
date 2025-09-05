@@ -1,0 +1,88 @@
+# 📘 LeetCode Problem List
+
+A structured list of important **LeetCode problems**, categorized by topic for effective Data Structures & Algorithms (DSA) practice.
+
+---
+
+## 🔹 Arrays
+- [Rotate Array – LeetCode 189](https://leetcode.com/problems/rotate-array/)
+- [Majority Element – LeetCode 169](https://leetcode.com/problems/majority-element/)
+- [Move Zeroes – LeetCode 283](https://leetcode.com/problems/move-zeroes/)
+- [Find Pivot Index – LeetCode 724](https://leetcode.com/problems/find-pivot-index/)
+- [Spiral Matrix – LeetCode 54](https://leetcode.com/problems/spiral-matrix/)
+
+---
+
+## 🔹 Two Pointers / Sliding Window
+- [Remove Duplicates from Sorted Array – LeetCode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [Sort Colors (Dutch National Flag) – LeetCode 75](https://leetcode.com/problems/sort-colors/)
+- [Squares of a Sorted Array – LeetCode 977](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [Fruit Into Baskets – LeetCode 904](https://leetcode.com/problems/fruit-into-baskets/)
+- [Longest Subarray of 1’s After Deleting One – LeetCode 1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+
+---
+
+## 🔹 Binary Search
+- [Guess Number Higher or Lower – LeetCode 374](https://leetcode.com/problems/guess-number-higher-or-lower/)
+- [Search Insert Position – LeetCode 35](https://leetcode.com/problems/search-insert-position/)
+- [Peak Index in a Mountain Array – LeetCode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- [Find Minimum in Rotated Sorted Array – LeetCode 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [Kth Missing Positive Number – LeetCode 1539](https://leetcode.com/problems/kth-missing-positive-number/)
+
+---
+
+## 🔹 Hashing / Prefix-Sum
+- [Happy Number – LeetCode 202](https://leetcode.com/problems/happy-number/)
+- [First Unique Character in a String – LeetCode 387](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [Intersection of Two Arrays II – LeetCode 350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- [Subarray Sums Divisible by K – LeetCode 974](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+- [Ransom Note – LeetCode 383](https://leetcode.com/problems/ransom-note/)
+
+---
+
+## 🔹 Stacks / Monotonic Stack
+- [Implement Queue using Stacks – LeetCode 232](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [Implement Stack using Queues – LeetCode 225](https://leetcode.com/problems/implement-stack-using-queues/)
+- [Crawler Log Folder – LeetCode 1598](https://leetcode.com/problems/crawler-log-folder/)
+- [Next Greater Element II – LeetCode 503](https://leetcode.com/problems/next-greater-element-ii/)
+- [Basic Calculator II – LeetCode 227](https://leetcode.com/problems/basic-calculator-ii/)
+
+---
+
+## 🔹 Linked List
+- [Palindrome Linked List – LeetCode 234](https://leetcode.com/problems/palindrome-linked-list/)
+- [Linked List Cycle II – LeetCode 142](https://leetcode.com/problems/linked-list-cycle-ii/)
+- [Odd Even Linked List – LeetCode 328](https://leetcode.com/problems/odd-even-linked-list/)
+- [Rotate List – LeetCode 61](https://leetcode.com/problems/rotate-list/)
+- [Partition List – LeetCode 86](https://leetcode.com/problems/partition-list/)
+
+---
+
+## 🔹 Trees (Binary Tree / BST)
+- [Invert Binary Tree – LeetCode 226](https://leetcode.com/problems/invert-binary-tree/)
+- [Path Sum – LeetCode 112](https://leetcode.com/problems/path-sum/)
+- [Diameter of Binary Tree – LeetCode 543](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [Binary Tree Right Side View – LeetCode 199](https://leetcode.com/problems/binary-tree-right-side-view/)
+- [Range Sum of BST – LeetCode 938](https://leetcode.com/problems/range-sum-of-bst/)
+
+---
+
+## 🔹 Graphs
+- [Flood Fill – LeetCode 733](https://leetcode.com/problems/flood-fill/)
+- [Max Area of Island – LeetCode 695](https://leetcode.com/problems/max-area-of-island/)
+- [Rotten Oranges – LeetCode 994](https://leetcode.com/problems/rotting-oranges/)
+- [Find if Path Exists in Graph – LeetCode 1971](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+- [Keys and Rooms – LeetCode 841](https://leetcode.com/problems/keys-and-rooms/)
+
+---
+
+## 🔹 Dynamic Programming (DP)
+- [Fibonacci Number – LeetCode 509](https://leetcode.com/problems/fibonacci-number/)
+- [Minimum Path Sum – LeetCode 64](https://leetcode.com/problems/minimum-path-sum/)
+- [Unique Paths – LeetCode 62](https://leetcode.com/problems/unique-paths/)
+- [Decode Ways – LeetCode 91](https://leetcode.com/problems/decode-ways/)
+- [Maximum Product Subarray – LeetCode 152](https://leetcode.com/problems/maximum-product-subarray/)
+
+---
+
+📌 **Tip:** Practice problems category by category to build strong problem-solving patterns.
