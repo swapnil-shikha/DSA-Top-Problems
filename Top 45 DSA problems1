@@ -1,89 +1,99 @@
-# 📘 LeetCode Practice Problems
+# 🚀 LeetCode Problem Set – Part 2
 
-This repository contains a categorized list of important **LeetCode problems** for practicing Data Structures & Algorithms (DSA).  
-The problems are grouped by topic to make preparation more structured.
-
----
-
-## 🔹 Arrays
-- [Rotate Array – LeetCode 189](https://leetcode.com/problems/rotate-array/)
-- [Majority Element – LeetCode 169](https://leetcode.com/problems/majority-element/)
-- [Move Zeroes – LeetCode 283](https://leetcode.com/problems/move-zeroes/)
-- [Find Pivot Index – LeetCode 724](https://leetcode.com/problems/find-pivot-index/)
-- [Spiral Matrix – LeetCode 54](https://leetcode.com/problems/spiral-matrix/)
+This repository contains a **structured list of LeetCode problems** (and a few GFG problems), grouped by topic.  
+It serves as a **DSA practice roadmap** for interviews and coding challenges.
 
 ---
 
-## 🔹 Two Pointers / Sliding Window
-- [Remove Duplicates from Sorted Array – LeetCode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [Sort Colors (Dutch National Flag) – LeetCode 75](https://leetcode.com/problems/sort-colors/)
-- [Squares of a Sorted Array – LeetCode 977](https://leetcode.com/problems/squares-of-a-sorted-array/)
-- [Fruit Into Baskets – LeetCode 904](https://leetcode.com/problems/fruit-into-baskets/)
-- [Longest Subarray of 1’s After Deleting One – LeetCode 1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+## 📂 Problem Categories
+
+### 🔹 Arrays
+- [Maximum Subarray (Kadane’s Algo) – LeetCode 53](https://leetcode.com/problems/maximum-subarray/)
+- [Best Time to Buy and Sell Stock – LeetCode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [Two Sum – LeetCode 1](https://leetcode.com/problems/two-sum/)
+- [Product of Array Except Self – LeetCode 238](https://leetcode.com/problems/product-of-array-except-self/)
+- [Merge Intervals – LeetCode 56](https://leetcode.com/problems/merge-intervals/)
 
 ---
 
-## 🔹 Binary Search
-- [Guess Number Higher or Lower – LeetCode 374](https://leetcode.com/problems/guess-number-higher-or-lower/)
-- [Search Insert Position – LeetCode 35](https://leetcode.com/problems/search-insert-position/)
-- [Peak Index in a Mountain Array – LeetCode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-- [Find Minimum in Rotated Sorted Array – LeetCode 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [Kth Missing Positive Number – LeetCode 1539](https://leetcode.com/problems/kth-missing-positive-number/)
+### 🔹 Two Pointers / Sliding Window
+- [Container With Most Water – LeetCode 11](https://leetcode.com/problems/container-with-most-water/)
+- [3Sum – LeetCode 15](https://leetcode.com/problems/3sum/)
+- [Minimum Size Subarray Sum – LeetCode 209](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [Longest Substring Without Repeating Characters – LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [Sliding Window Maximum – LeetCode 239](https://leetcode.com/problems/sliding-window-maximum/)
 
 ---
 
-## 🔹 Hashing / Prefix-Sum
-- [Happy Number – LeetCode 202](https://leetcode.com/problems/happy-number/)
-- [First Unique Character in a String – LeetCode 387](https://leetcode.com/problems/first-unique-character-in-a-string/)
-- [Intersection of Two Arrays II – LeetCode 350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-- [Subarray Sums Divisible by K – LeetCode 974](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
-- [Ransom Note – LeetCode 383](https://leetcode.com/problems/ransom-note/)
+### 🔹 Binary Search
+- [Binary Search – LeetCode 704](https://leetcode.com/problems/binary-search/)
+- [Search in Rotated Sorted Array – LeetCode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [Find First and Last Position of Element in Sorted Array – LeetCode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [Median of Two Sorted Arrays – LeetCode 4](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [Split Array Largest Sum – LeetCode 410](https://leetcode.com/problems/split-array-largest-sum/)
 
 ---
 
-## 🔹 Stacks / Monotonic Stack
-- [Implement Queue using Stacks – LeetCode 232](https://leetcode.com/problems/implement-queue-using-stacks/)
-- [Implement Stack using Queues – LeetCode 225](https://leetcode.com/problems/implement-stack-using-queues/)
-- [Crawler Log Folder – LeetCode 1598](https://leetcode.com/problems/crawler-log-folder/)
-- [Next Greater Element II – LeetCode 503](https://leetcode.com/problems/next-greater-element-ii/)
-- [Basic Calculator II – LeetCode 227](https://leetcode.com/problems/basic-calculator-ii/)
+### 🔹 Hashing / Prefix-Sum
+- [Subarray Sum Equals K – LeetCode 560](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [Two Sum – LeetCode 1 (revisit with hashing)](https://leetcode.com/problems/two-sum/)
+- [Longest Subarray with Sum Zero – GFG](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+- [Contiguous Array (equal 0s and 1s) – LeetCode 525](https://leetcode.com/problems/contiguous-array/)
+- [Longest Consecutive Sequence – LeetCode 128](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 ---
 
-## 🔹 Linked List
-- [Palindrome Linked List – LeetCode 234](https://leetcode.com/problems/palindrome-linked-list/)
-- [Linked List Cycle II – LeetCode 142](https://leetcode.com/problems/linked-list-cycle-ii/)
-- [Odd Even Linked List – LeetCode 328](https://leetcode.com/problems/odd-even-linked-list/)
-- [Rotate List – LeetCode 61](https://leetcode.com/problems/rotate-list/)
-- [Partition List – LeetCode 86](https://leetcode.com/problems/partition-list/)
+### 🔹 Stacks / Monotonic Stack
+- [Valid Parentheses – LeetCode 20](https://leetcode.com/problems/valid-parentheses/)
+- [Min Stack – LeetCode 155](https://leetcode.com/problems/min-stack/)
+- [Next Greater Element I – LeetCode 496](https://leetcode.com/problems/next-greater-element-i/)
+- [Daily Temperatures – LeetCode 739](https://leetcode.com/problems/daily-temperatures/)
+- [Largest Rectangle in Histogram – LeetCode 84](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 ---
 
-## 🔹 Trees (Binary Tree / BST)
-- [Invert Binary Tree – LeetCode 226](https://leetcode.com/problems/invert-binary-tree/)
-- [Path Sum – LeetCode 112](https://leetcode.com/problems/path-sum/)
-- [Diameter of Binary Tree – LeetCode 543](https://leetcode.com/problems/diameter-of-binary-tree/)
-- [Binary Tree Right Side View – LeetCode 199](https://leetcode.com/problems/binary-tree-right-side-view/)
-- [Range Sum of BST – LeetCode 938](https://leetcode.com/problems/range-sum-of-bst/)
+### 🔹 Linked List
+- [Reverse Linked List – LeetCode 206](https://leetcode.com/problems/reverse-linked-list/)
+- [Detect Cycle in Linked List – LeetCode 141](https://leetcode.com/problems/linked-list-cycle/)
+- [Merge Two Sorted Lists – LeetCode 21](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [Remove Nth Node From End – LeetCode 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Copy List with Random Pointer – LeetCode 138](https://leetcode.com/problems/copy-list-with-random-pointer/)
 
 ---
 
-## 🔹 Graphs
-- [Flood Fill – LeetCode 733](https://leetcode.com/problems/flood-fill/)
-- [Max Area of Island – LeetCode 695](https://leetcode.com/problems/max-area-of-island/)
-- [Rotten Oranges – LeetCode 994](https://leetcode.com/problems/rotting-oranges/)
-- [Find if Path Exists in Graph – LeetCode 1971](https://leetcode.com/problems/find-if-path-exists-in-graph/)
-- [Keys and Rooms – LeetCode 841](https://leetcode.com/problems/keys-and-rooms/)
+### 🔹 Trees (Binary Tree / BST)
+- [Maximum Depth of Binary Tree – LeetCode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [Symmetric Tree – LeetCode 101](https://leetcode.com/problems/symmetric-tree/)
+- [Binary Tree Level Order Traversal – LeetCode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [Validate Binary Search Tree – LeetCode 98](https://leetcode.com/problems/validate-binary-search-tree/)
+- [Lowest Common Ancestor of a BST – LeetCode 235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
 ---
 
-## 🔹 Dynamic Programming (DP)
-- [Fibonacci Number – LeetCode 509](https://leetcode.com/problems/fibonacci-number/)
-- [Minimum Path Sum – LeetCode 64](https://leetcode.com/problems/minimum-path-sum/)
-- [Unique Paths – LeetCode 62](https://leetcode.com/problems/unique-paths/)
-- [Decode Ways – LeetCode 91](https://leetcode.com/problems/decode-ways/)
-- [Maximum Product Subarray – LeetCode 152](https://leetcode.com/problems/maximum-product-subarray/)
+### 🔹 Graphs
+- [Number of Islands – LeetCode 200](https://leetcode.com/problems/number-of-islands/)
+- [Clone Graph – LeetCode 133](https://leetcode.com/problems/clone-graph/)
+- [Course Schedule – LeetCode 207](https://leetcode.com/problems/course-schedule/)
+- [Word Ladder – LeetCode 127](https://leetcode.com/problems/word-ladder/)
+- [Shortest Path in Binary Matrix – LeetCode 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
 ---
 
-📌 **Tip:** Solve problems in order, focusing on one category at a time for better mastery.
+### 🔹 Dynamic Programming (DP)
+- [Climbing Stairs – LeetCode 70](https://leetcode.com/problems/climbing-stairs/)
+- [House Robber – LeetCode 198](https://leetcode.com/problems/house-robber/)
+- [Coin Change – LeetCode 322](https://leetcode.com/problems/coin-change/)
+- [Longest Increasing Subsequence – LeetCode 300](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [Edit Distance – LeetCode 72](https://leetcode.com/problems/edit-distance/)
+
+---
+
+## ✅ Usage
+1. Pick a category and start solving problems.
+2. Revisit solved problems after a few days for better retention.
+3. Use hashing, sliding window, or DP variations where relevant.
+4. Track progress by committing your solutions in this repo.
+
+---
+
+🔥 Keep practicing & happy coding!
